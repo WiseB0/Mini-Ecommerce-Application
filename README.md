@@ -5,7 +5,9 @@ Purpose: This window classic desktop application is going to be an ecommerce app
 
 Program Procedures: Users will be allowed to choose from three categories of their choice and select multiple items from each category and later checkout. 
 
+
 Algorithms, Processing, and conditions: 
+
 1.) The user will need to know what category they are interested in. 
 2.) When the user selects what category, that selected category will then display a list of items to choose from.
 3.) User is allowed to select as many items.
