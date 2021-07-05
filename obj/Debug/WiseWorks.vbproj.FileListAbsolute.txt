@@ -1,0 +1,23 @@
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.exe.config
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.exe
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.pdb
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.xml
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.vbprojAssemblyReference.cache
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.frmWiseWorks.resources
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.Resources.resources
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.vbproj.GenerateResource.cache
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.exe
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.xml
+C:\Users\wisley\Desktop\Information Tech\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.pdb
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.exe.config
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.exe
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.pdb
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\bin\Debug\WiseWorks.xml
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.vbprojAssemblyReference.cache
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.frmWiseWorks.resources
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.Resources.resources
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.vbproj.GenerateResource.cache
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.vbproj.CoreCompileInputs.cache
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.exe
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.xml
+C:\Users\wisley\Desktop\Information Tech\Fall 2019\Visual Basic\Coding Practice\WiseWorks Final Project\WiseWorks\obj\Debug\WiseWorks.pdb
